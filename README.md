@@ -1,7 +1,5 @@
 ## Hi, I am Ruba! 👋
 
----
-
 ### AI Research Intern | MSc Data Analytics Graduate
 
 I am a passionate AI Researcher currently interning at **NASTP (CENTAIC)**. My work focuses on building secure **RAG systems** and deployable AI solutions. 
