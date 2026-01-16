@@ -21,6 +21,9 @@ I am a passionate AI Researcher currently interning at **NASTP (CENTAIC)**. My w
 ### 🌱 Professional Goal
 I am dedicated to advancing AI sovereignty in the **Middle East**, focusing on building secure and high-performance local AI ecosystems for organizations like **NASTP**.
 
+### 🤝 Let's Connect
+- 📧 **Email:** [rubazee15@gmail.com](mailto:rubazee15@gmail.com)
+- 📍 **Location:** Islamabad, Pakistan (Open to Relocation to UAE)
 <!--
 **rubazee15-create/rubazee15-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
